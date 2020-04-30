@@ -1,0 +1,15 @@
+{
+  "name": "CoupBackend",
+  "version": "1.0.0",
+  "description": "Backend for my Coup iPhone App",
+  "main": "server.js",
+  "repository": "https://github.com/runlevelzero/CoupBackend.git",
+  "author": "Github <ruben.s.ruiz@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10"
+  }
+}
